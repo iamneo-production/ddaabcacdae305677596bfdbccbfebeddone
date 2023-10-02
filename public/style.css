@@ -1,0 +1,26 @@
+.container{
+    .container{
+      width: 300px;
+      margin: 20px auto;
+    }
+    label{
+      display:block;
+      margin-bottom: 5px;
+    }
+    input{
+      width: 300px;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+    .button{
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    .button:hover{
+      background-color:#45a049;
+    }
+  
+}
