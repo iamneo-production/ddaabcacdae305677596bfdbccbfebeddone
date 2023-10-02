@@ -1,5 +1,4 @@
 .container{
-    .container{
       width: 300px;
       margin: 20px auto;
     }
@@ -19,8 +18,4 @@
       border: none;
       cursor: pointer;
     }
-    .button:hover{
-      background-color:#45a049;
-    }
-  
-}
+   
